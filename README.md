@@ -1,36 +1,58 @@
-<h1 align="center">Hi there, I'm Rahul Kumar 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&height=70&lines=Hi+👋,+I'm+Rahul+Kumar+!;+A+Fullstack+Developer" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
+<br></br>
+<p align="right">
+    <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KQhKXu0IGeDQYu0JzLuPmstlj2g3ULp9LkROvjaOPdh5jcDb489O0-aSuIV-vjYhqmojDnYASkqj9dSGEUVHLW46gjNdwFBVsntU8pdIqhRiQBdVWiXBKqvgxQTcz0RHDrZt_L6mU_IWv6PpAUECnyzXRiNgDO7-y1xVIuOPsfd3gdA=s1024" alt="Aesthetic Computer Science Nerd" width="856" height="680">
+</p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="250" />
-</p>
+<h2 align="center">Problem Solver | Tech Explorer</h2>
 
----
+- 🔭 I’m currently working on personal projects using the MERN stack, focusing on practical implementations to enhance my full-stack development skills.<br><br>- 👯 I’m looking to collaborate on MERN stack projects, open-source contributions, and innovative web applications.<br><br>- 🤝 I’m looking for help with gaining hands-on experience in advanced React.js patterns, optimizing MongoDB queries, and exploring cloud deployment strategies.<br><br>- 🌱 I’m currently learning advanced data structures and algorithms, system design, devops and performance optimization techniques in full-stack development.<br><br>- 💬 Ask me about MERN stack, authentication & authorization (JWT & Firebase), React state management (Redux & Context API), SQL query optimization, and competitive programming.<br><br>- ⚡ Fun fact I’ve solved 250+ problems on LeetCode and earned 50-day and 100-day coding in 2024,50 days coding in 2025,streak badges! 🚀<br><br>- 📫 How to reach me **rahulkumarjha58978@gmail.com**
+  
+<hr/>
+<div align="center">
+  <h3>Connect with me:</h3>
+  
+  <p align="center">
+    <!-- Twitter -->
+    <a href="https://twitter.com/shashank255722" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="100" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/shashank-yadav-870577259" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0060B1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" />
+    </a>
+    <!-- Gmail -->
+    <a href="mailto:rahulkumarjha58978@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
+    </a>
+  </p>
+</div>
 
-# 💫 About Me:
-🔭 I’m currently working on personal projects using the MERN stack, focusing on practical implementations to enhance my full-stack development skills.<br><br>👯 I’m looking to collaborate on MERN stack projects, open-source contributions, and innovative web applications.<br><br>🤝 I’m looking for help with gaining hands-on experience in advanced React.js patterns, optimizing MongoDB queries, and exploring cloud deployment strategies.<br><br>🌱 I’m currently learning advanced data structures and algorithms, system design, devops and performance optimization techniques in full-stack development.<br><br>💬 Ask me about MERN stack, authentication & authorization (JWT & Firebase), React state management (Redux & Context API), SQL query optimization, and competitive programming.<br><br>⚡ Fun fact I’ve solved 250+ problems on LeetCode and earned 50-day and 100-day coding in 2024,50 days coding in 2025,streak badges! 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-801167241/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/romeokilo58978) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulkumarjha58978@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,javascript,html,css,git,tailwindcss,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,firebase,tailwind,arduino,bootstrap,postman,vscode,github" /><br>
+</div>
+<br/><br/>
+<hr/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=romeokil&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=romeokil&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romeokil&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romeokil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center" margin="2px">
+  <img src="https://github-readme-stats.vercel.app/api?username=romeokil&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+  <br />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=romeokil&theme=highcontrast&hide_border=false" />
+  <br />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeokil&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=romeokil&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+<hr/>
