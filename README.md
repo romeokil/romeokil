@@ -3,11 +3,11 @@
 </h1>
 
 <br></br>
-<p align="right">
-    <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KQhKXu0IGeDQYu0JzLuPmstlj2g3ULp9LkROvjaOPdh5jcDb489O0-aSuIV-vjYhqmojDnYASkqj9dSGEUVHLW46gjNdwFBVsntU8pdIqhRiQBdVWiXBKqvgxQTcz0RHDrZt_L6mU_IWv6PpAUECnyzXRiNgDO7-y1xVIuOPsfd3gdA=s1024" alt="Aesthetic Computer Science Nerd" width="856" height="680">
+<p align="center">
+    <img src="./cs_nerd_guy.png" alt="Aesthetic Computer Science Nerd" width="800" height="600">
 </p>
 <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+    <img src="https://komarev.com/ghpvc/?username=romeokil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <h2 align="center">Problem Solver | Tech Explorer</h2>
@@ -20,11 +20,11 @@
   
   <p align="center">
     <!-- Twitter -->
-    <a href="https://twitter.com/shashank255722" target="_blank">
+    <a href="https://x.com/romeokilo58978" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="100" />
     </a>
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/shashank-yadav-870577259" target="_blank">
+    <a href="https://www.linkedin.com/in/rahul-kumar-801167241/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0060B1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" />
     </a>
     <!-- Gmail -->
